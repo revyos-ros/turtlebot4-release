@@ -2,6 +2,14 @@
 Changelog for package turtlebot4_node
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.1 (2024-09-25)
+------------------
+* Block the wall-follow callbacks from running if the robot is presently docked
+* Contributors: Chris Iverach-Brereton
+
+2.0.0 (2024-08-29)
+------------------
+
 1.0.5 (2024-07-02)
 ------------------
 
