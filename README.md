@@ -1,3 +1,30 @@
+## turtlebot4 (jazzy) - 2.0.1-2
+
+The packages in the `turtlebot4` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy turtlebot4 --override-release-repository-push-url git@github.com:revyos-ros/turtlebot4-release.git` on `Sun, 29 Sep 2024 02:46:32 -0000`
+
+These packages were released:
+- `turtlebot4_description`
+- `turtlebot4_msgs`
+- `turtlebot4_navigation`
+- `turtlebot4_node`
+
+Version of package(s) in repository `turtlebot4`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot4.git
+- release repository: https://github.com/revyos-ros/turtlebot4-release.git
+- rosdistro version: `2.0.1-1`
+- old version: `2.0.1-1`
+- new version: `2.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot4 (jazzy) - 2.0.1-1
 
 The packages in the `turtlebot4` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -t jazzy -r jazzy turtlebot4` on `Wed, 25 Sep 2024 17:50:59 -0000`
